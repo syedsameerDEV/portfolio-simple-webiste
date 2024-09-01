@@ -5,7 +5,7 @@ A simple portfolio website built with HTML and CSS, featuring a Home page with p
 -CSS
 
 #How to view 
--You can access my portfolio website by visiting Link [http://127.0.0.1:5500/Portfolio/index.html] free to explore the content get in touch
+-You can access my portfolio website by visiting ]Link] free to explore the content get in touch
 
 #License
 
